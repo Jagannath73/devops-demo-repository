@@ -25,7 +25,7 @@ if (process.env.PORT) {
 
 var app = express();
 app.get('/', function (req, res) {
-  res.send('Welcome to IBM Cloud DevOps using containers Testing Devops Demo. Let\'s go use the Continuous Delivery Service');
+  res.send('Welcome to Syniverse DevOps Testing Devops . Let\'s go use the Continuous Delivery Service');
 });
 
 app.listen(PORT);
