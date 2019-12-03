@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "description": "Basic hello world application for Node.js",
-  "author": "Jagannath<Jagannath.Vanarasi@us.ibm.com>",
+  "author": "Jagannath<Jagannath.Vanarasi@syniverse.com>",
   "dependencies": {
     "express": "4.17.1",
     "mocha": "*",
